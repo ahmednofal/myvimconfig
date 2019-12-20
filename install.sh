@@ -1,2 +1,2 @@
-cp -r .vim_runtime ../
-cp .vimrc ../
+cp -irf .vim_runtime ../
+cp -if .vimrc ../
